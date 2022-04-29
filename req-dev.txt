@@ -1,3 +1,5 @@
+numpy==1.16.6
+gluonts==0.9.4
+mxnet==1.7.0
+sklearn==0.0
 pandas==1.4.2
-numpy==1.22.3
-gluonts==0.9.3
